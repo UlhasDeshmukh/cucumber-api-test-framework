@@ -33,3 +33,5 @@ gem "bson_ext"
 gem "fakefs"
 gem "launchy"
 gem "pretty_face"
+gem 'selenium-webdriver'
+gem 'site_prism'
